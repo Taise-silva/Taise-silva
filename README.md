@@ -1,6 +1,6 @@
 # 💻 Taíse Silva
 
-##`Meu portfólio profissional`##
+#`Meu portfólio profissional`#
 
 ## Sobre mim ##
 27 anos | Natal/RN
