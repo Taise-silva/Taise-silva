@@ -22,12 +22,4 @@ Sou movida pela curiosidade, aprendizado contínuo e vontade de evoluir pessoal 
 Acesse meu repositório de portfólio com exemplos reais:
 👉 [Clique aqui para ver meus dashboards no Power BI](https://github.com/Taise-silva/taise-portfolio-dashboard)
 
-## 🌐 Onde me encontrar
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://abrir.link/JEVLD)
-[![Email](https://img.shields.io/badge/-taisesilva.contato@gmail.com-c14438?style=flat&logo=gmail&logoColor=white)](mailto:taisesilva.contato@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://abrir.link/gXDtN)  
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://abrir.link/cYqwE)  
-
-
-
 
