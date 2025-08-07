@@ -1,4 +1,4 @@
-# 💻 Taíse Silva
+# 💻 Taíse Silva 🎀
 
 **27 anos | Natal/RN**
 
